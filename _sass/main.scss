@@ -1,9 +1,15 @@
+@font-face {
+  font-family: "GeistMono";
+  src: url("../fonts/GeistMono-Regular.ttf");
+}
+
 body {
   display: flex;
   flex-direction: column;
   justify-content: center;
   background-color: #ffeef0;
   color: #ad8483;
+  font-family: "GeistMono";
 }
 
 .current {
