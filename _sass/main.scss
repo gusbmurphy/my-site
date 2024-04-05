@@ -1,3 +1,28 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .current {
   color: green;
+}
+
+.content-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  max-width: 600px;
+}
+
+.me-picture {
+  max-width: 100%;
+  max-height: 70vh;
 }
