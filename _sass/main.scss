@@ -1,6 +1,6 @@
 @font-face {
   font-family: "GeistMono";
-  src: url("../fonts/GeistMono-Regular.ttf");
+  src: url("../fonts/GeistMono-Light.ttf");
 }
 
 body {
@@ -9,6 +9,9 @@ body {
   justify-content: center;
   background-color: #ffeef0;
   color: #ad8483;
+}
+
+h1, h2, h3, h4, h5, h6 {
   font-family: "GeistMono";
 }
 
