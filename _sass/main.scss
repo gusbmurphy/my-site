@@ -7,7 +7,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: #FEEEEE;
+  background-color: #feeeee;
   color: #815654;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
@@ -25,6 +25,26 @@ h6 {
 a {
   text-decoration-style: dotted;
   text-underline-position: under;
+}
+
+a:link {
+  color: #006e89;
+}
+
+a:visited {
+  color: #90437a;
+}
+
+a:focus {
+  color: #007652;
+}
+
+a:hover {
+  color: #007652;
+}
+
+a:active {
+  color: #954d00;
 }
 
 .current {
