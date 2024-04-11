@@ -4,7 +4,6 @@ title: Home
 ---
 
 <h1>Gus Murphy</h1>
-<p class="software-guy">~software guy~</p>
 
 ![Me holding a Squier bass](/assets/images/me_with_bass.jpeg){:.me-picture}
 
