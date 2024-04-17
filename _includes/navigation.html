@@ -1,6 +1,6 @@
 <!doctype html>
 <nav>
-  <div>Gus Murphy</div>
+  <a href="/">Gus Murphy</a>
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
   {% endfor %}
