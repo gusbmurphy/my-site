@@ -90,3 +90,18 @@ a:active {
   font-weight: bolder;
   text-decoration: none;
 }
+
+.post-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.post-list-title {
+  h2, h3 {
+    display: inline;
+  }
+
+  h2 {
+    margin-right: 0.5em;
+  }
+}
