@@ -52,6 +52,14 @@ h6 {
   max-width: 600px;
 }
 
+.content ul {
+  padding-inline-start: 1rem;
+}
+
+.content li {
+  margin-bottom: 0.6rem;
+}
+
 .post-container {
   padding-bottom: 12rem;
 }
@@ -80,7 +88,8 @@ h6 {
 }
 
 .post-list-title {
-  h2, h3 {
+  h2,
+  h3 {
     display: inline;
   }
 
