@@ -6,3 +6,6 @@ PRs
 DORA
 DORA's
 Nunes
+Marick’s
+Hansson
+Heinemeier
