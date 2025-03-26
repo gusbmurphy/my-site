@@ -9,3 +9,6 @@ Nunes
 Marick's
 Hansson
 Heinemeier
+Signifiers
+Repenning
+Sterman
