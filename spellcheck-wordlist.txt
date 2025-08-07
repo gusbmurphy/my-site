@@ -12,3 +12,7 @@ Heinemeier
 signifiers
 Repenning
 Sterman
+JVM
+Renderer
+enjoyer
+polymorphism
